@@ -1,9 +1,10 @@
-# Cryptography# Crypto_CADT
+# Cryptography
+# Vong_Soukorng_G2_Labw2
 
-# from Week3/lab1
+# For Labw2
 cd D:/CADT/Year3/Cryptography/Vong_Soukorng_G2_Labw3
 
-# how to run from lab0-4
+# How to run from lab0-4
 go run lab0.go
 
 go run lab1.go
