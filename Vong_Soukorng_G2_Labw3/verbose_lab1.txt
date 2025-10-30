@@ -335,5 +335,5 @@
 [335] word='Gold1512' md5=ea52d5054aaa03e74f96624a52bec51e
 [336] word='Good4you' md5=cb0ba71f4da2553cb58f6449ca57b7a9
 [337] word='Google101' md5=6a85dfd77d9cb35770c9dc6728d73d3f
-2025-10-28 16:47:22: MATCH FOUND at line 337 -> 'Google101' md5=6a85dfd77d9cb35770c9dc6728d73d3f
-2025-10-28 16:47:22: DONE. Cracked: 'Google101' (hash: 6a85dfd77d9cb35770c9dc6728d73d3f). Lines checked: 337. Time: 1.3964ms
+2025-10-30 09:30:13: MATCH FOUND at line 337 -> 'Google101' md5=6a85dfd77d9cb35770c9dc6728d73d3f
+2025-10-30 09:30:13: DONE. Cracked: 'Google101' (hash: 6a85dfd77d9cb35770c9dc6728d73d3f). Lines checked: 337. Time: 1.1316ms
